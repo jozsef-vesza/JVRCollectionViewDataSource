@@ -1,5 +1,5 @@
 ##JVRCollectionViewDataSource
-A basic, reusable and expandable `UICollectionViewDataSource` class to take the clutter out of your `UICollectionView` classes. It depends on a cell configurator class that conforms to the [`JVRCellConfiguratorDelegate`](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate) protocol. For cell configuration example, please see the [`JVRCellConfiguratorDelegate` GitHub page](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate).
+A basic, reusable and expandable `UICollectionViewDataSource` class to take the clutter out of your `UICollectionView` classes. It depends on a cell configurator class that conforms to the `JVRCellConfiguratorDelegate` [protocol](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate). For cell configuration example, please see the `JVRCellConfiguratorDelegate` [GitHub page](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate).
 ###Example for usage in a Collection View Controller
 ```objc
 #import "JVRCollectionViewDataSource.h"
@@ -28,4 +28,4 @@ Source files can be added manually, however the preferred way to add the class t
 ```ruby
 pod 'JVRCollectionViewDataSource'
 ```
-This will install `JVRCollectionViewDataSource` and [`JVRCellConfiguratorDelegate](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate) as an additional dependency.
+This will install `JVRCollectionViewDataSource` and `JVRCellConfiguratorDelegate` as an additional dependency.
