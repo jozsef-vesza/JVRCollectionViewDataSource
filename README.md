@@ -1,5 +1,5 @@
 ##JVRCollectionViewDataSource
-A basic, reusable and expandable `UICollectionViewDataSource` class to take the clutter out of your `UICollectionView` classes. It depends on a cell configurator class that conforms to the `JVRCellConfiguratorDelegate` [protocol](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate). For cell configuration example, please see the `JVRCellConfiguratorDelegate` [GitHub page](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate).
+A basic, reusable and expandable `UICollectionViewDataSource` class to take the clutter out of your `UICollectionView` classes. It depends on a cell configurator class that conforms to the `JVRCellConfiguratorDelegate` protocol. For cell configuration example, please see the [GitHub page](https://github.com/jozsef-vesza/JVRCellConfiguratorDelegate) for the protocol.
 ###Example for usage in a Collection View Controller
 ```objc
 #import "JVRCollectionViewDataSource.h"
