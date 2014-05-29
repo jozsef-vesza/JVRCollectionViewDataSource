@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "JVRCollectionViewDataSource"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "A basic, reusable and expandable UICollectionViewDataSource class, to take the clutter out of your UICollectionView classes."
   s.homepage     = "https://github.com/jozsef-vesza/JVRCollectionViewDataSource"
   s.license      = "MIT"
